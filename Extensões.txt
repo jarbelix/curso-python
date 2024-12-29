@@ -1,0 +1,3 @@
+Extensões do VSCODE a serem instaladas
+- 1. 
+- 2.
