@@ -1,3 +1,8 @@
 Extensões do VSCODE a serem instaladas
-- 1. 
-- 2.
+1. Djaneiro - Django Snippets
+2. Pylance
+3. Python
+4. Python Debugger
+5. vscode-icons
+6. Code Runner
+7. Dev Containers
