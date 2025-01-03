@@ -6,3 +6,24 @@ Extensões do VSCODE a serem instaladas
 5. vscode-icons
 6. Code Runner
 7. Dev Containers
+
+Listar extensões instaladas:
+
+code --list-extensions
+
+batisteo.vscode-django
+bibhasdn.django-html
+formulahendry.code-runner
+github.copilot
+github.copilot-chat
+ms-azuretools.vscode-docker
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-vscode-remote.remote-containers
+thebarkman.vscode-djaneiro
+visualstudioexptteam.vscodeintellicode-completions
+vscode-icons-team.vscode-icons
+
+Remover extensões instaladas:
+code --list-extensions | xargs -n1 code --uninstall-extension
